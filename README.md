@@ -38,3 +38,6 @@ template = [os.path.isfile(_obj) and file_list.append(_obj) or os.path.isdir(_ob
 #define NUMARGS(...)  (sizeof((int[]){__VA_ARGS__})/sizeof(int))
 ```
 > [C++ preprocessor __VA_ARGS__ number of arguments ...](https://stackoverflow.com/questions/2124339/c-preprocessor-va-args-number-of-arguments/2124433#:~:text=number%20of%20params%3A-,%23define%20NUMARGS(...)%20%20(sizeof((int%5B%5D)%7B__VA_ARGS__%7D)/sizeof(int)),-Full%20example%3A)
+
+# \#5
+**Freedom**
