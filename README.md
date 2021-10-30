@@ -41,3 +41,24 @@ template = [os.path.isfile(_obj) and file_list.append(_obj) or os.path.isdir(_ob
 
 # \#5
 **Freedom**
+
+# \#6
+```python3
+class split:
+    def __init__(self, string, jump_str=False, cut_index=-1) -> None:
+        self.__S = []
+        self.__match_key = ("object", "at")
+        self.result = None
+
+        if jump_str:
+            ...
+        else:
+            self.__result = [s != "" and not s in self.__match_key and \
+                self.__S.append(s) for s in re.split(r"[\W+]", string)]
+
+        self.result = cut_index != -1 and self.__S[cut_index] or self.__S
+        
+        return None
+
+print(split("<class '__main__.plugin'>", cut_index=0).result)
+```
