@@ -62,3 +62,11 @@ class split:
 
 print(split("<class '__main__.plugin'>", cut_index=0).result)
 ```
+
+# \#7
+```c
+#define start_server(...) \
+    Server.listen((struct ServerSettings){__VA_ARGS__})
+```
+
+**FROM*** [`Server Framework`](https://github.com/ktvexe/server-framework/blob/e73a1319cfbe03d7252bc07df56e558292992cc3/protocol-server.h#L41-L42)
