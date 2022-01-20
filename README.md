@@ -83,3 +83,13 @@ print(split("<class '__main__.plugin'>", cut_index=0).result)
 ```
 
 **FROM** [`Server Framework`](https://github.com/ktvexe/server-framework/blob/e73a1319cfbe03d7252bc07df56e558292992cc3/protocol-server.h#L41-L42)
+
+[-1](#-)
+[0](#21y0s)
+[1](#21y1s)
+[2](#21y2s)
+[3](#21y3s)
+[4](#21y4s)
+[5](#21y5s)
+[6](#21y6s)
+[7](#21y7s)
