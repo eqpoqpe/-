@@ -27,7 +27,10 @@ just a push
 
 # \#3
 ```python3
-template = [os.path.isfile(_obj) and file_list.append(_obj) or os.path.isdir(_obj) and dirs_list.append(_obj) for _obj in os.listdir(self.__path)]
+template = [os.path.isfile(_obj) and \
+    file_list.append(_obj) or \
+    os.path.isdir(_obj) and \
+    dirs_list.append(_obj) for _obj in os.listdir(self.__path)]
 ```
 `if-elif-else`: Fuck you!!
 
