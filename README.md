@@ -1,4 +1,4 @@
-[&3](#\#3)
+[&3](#21y7s)
 
 # -
 cd ./-
@@ -68,7 +68,7 @@ class split:
 print(split("<class '__main__.plugin'>", cut_index=0).result)
 ```
 
-# \#7
+# 21y7s
 ```c
 #define start_server(...) \
     Server.listen((struct ServerSettings){__VA_ARGS__})
