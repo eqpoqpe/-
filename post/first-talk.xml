@@ -1,0 +1,13 @@
+<post>
+  <author>Ryan Martin</author>
+  <title>First Talk</title>
+  <content>
+    <pre>
+      <code>
+        !(function(){
+          console.log("$");
+        })();
+      </code>
+    </pre>
+  </content>
+</post>
