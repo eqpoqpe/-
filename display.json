@@ -1,5 +1,9 @@
 {
   "directory": "/",
   "protocol": "https",
-  "url": "github.com/eqpoqpe/-"
+  "url": "github.com/eqpoqpe/-",
+  "post": [
+    {"name": "", "display": "enable"},
+    {"name": "first-talk.xml", "display": "disable"}
+  ]
 }
