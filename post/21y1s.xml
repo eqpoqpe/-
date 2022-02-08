@@ -1,0 +1,12 @@
+<post>
+  <author>Ryan Martin</author>
+  <date></date>
+  <title>error: ld returned 1 exit status</title>
+  <content>
+    <pre>
+      /usr/bin/ld: /tmp/cc9iDlzX.o:(.data.rel.ro.local+0x0): multiple definition of `header'; /tmp/cckNaIHX.o:(.data.rel.ro.local+0x0):
+first defined here
+collect2: error: ld returned 1 exit status
+    </pre>
+  </content>
+</post>
