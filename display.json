@@ -4,6 +4,9 @@
   "url": "github.com/eqpoqpe/-",
   "post": [
     {"name": "", "display": "enable"},
-    {"name": "first-talk.xml", "display": "disable"}
+    {"name": "first-talk.xml", "display": "disable"},
+    {"name": "21y0s.xml", "display": "enable"},
+    {"name": "21y1s.xml", "display": "enable"},
+    {"name": "21y2s.xml", "display": "enable"},
   ]
 }
