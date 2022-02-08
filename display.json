@@ -3,10 +3,9 @@
   "protocol": "https",
   "url": "github.com/eqpoqpe/-",
   "post": [
-    {"name": "", "display": "enable"},
-    {"name": "first-talk.xml", "display": "disable"},
-    {"name": "21y0s.xml", "display": "enable"},
-    {"name": "21y1s.xml", "display": "enable"},
-    {"name": "21y2s.xml", "display": "enable"},
+    {"name": "first-talk.xml", "display": "disable", "title": "First Talk"},
+    {"name": "21y0s.xml", "display": "enable", "title": "cd -"},
+    {"name": "21y1s.xml", "display": "enable", "title": "error: ld returned 1 exit status"},
+    {"name": "21y2s.xml", "display": "enable", "title": "PUSH EVERYDAY"},
   ]
 }
