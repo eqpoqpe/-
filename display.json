@@ -1,11 +1,10 @@
 {
-  "directory": "/post",
-  "protocol": "https",
-  "url": "github.com/eqpoqpe/-",
+  "directory": "eqpo.ml/-",
+  "logformat": "xml",
   "post": [
-    {"name": "first-talk.xml", "display": "disable", "title": "First Talk"},
-    {"name": "21y0s.xml", "display": "enable", "title": "cd -"},
-    {"name": "21y1s.xml", "display": "enable", "title": "error: ld returned 1 exit status"},
-    {"name": "21y2s.xml", "display": "enable", "title": "PUSH EVERYDAY"},
+    {"filename": "first-talk", "display": "disable", "title": "First Talk"},
+    {"filename": "21y0s", "display": "enable", "title": "cd -"},
+    {"filename": "21y1s", "display": "enable", "title": "error: ld returned 1 exit status"},
+    {"filename": "21y2s", "display": "enable", "title": "PUSH EVERYDAY"},
   ]
 }
