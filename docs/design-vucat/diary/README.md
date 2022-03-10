@@ -11,7 +11,7 @@
           "div": [
             "#key: %index"
             ".class: post-front",
-            "@events:"
+            "@events: click-things"
           ]
         }
       ]
@@ -23,7 +23,12 @@
         "@type: click",
         "!bubble",
         "!self",
-        "!recipient: []"
+        {
+          "recipient": [
+            "group: post",
+            "#id: viewpath"
+          ]
+        }
       ]
     }
   ],
