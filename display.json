@@ -1,10 +1,4 @@
 {
   "directory": "eqpo.ml/-",
-  "logformat": "xml",
-  "post": [
-    {"filename": "first-talk", "display": "disable", "title": "First Talk"},
-    {"filename": "21y0s", "display": "enable", "title": "cd -"},
-    {"filename": "21y1s", "display": "enable", "title": "error: ld returned 1 exit status"},
-    {"filename": "21y2s", "display": "enable", "title": "PUSH EVERYDAY"},
-  ]
+  "items": []
 }
