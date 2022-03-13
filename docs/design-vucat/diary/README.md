@@ -1,8 +1,8 @@
 ```json
 {
   "div": [
-    "#id:card-front",
-    ".class:card-front front",
+    "#card-front",
+    ".card-front front",
     "@events:",
     {
       "foreach": [
@@ -26,7 +26,7 @@
         {
           "recipient": [
             "group: post",
-            "#id: viewpath"
+            "#viewpath"
           ]
         }
       ]
@@ -36,7 +36,7 @@
     {
       "post": [
         "#key: ",
-        ".class: post-front"
+        ".post-front"
       ]
     }
   ]
