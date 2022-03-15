@@ -10,7 +10,7 @@
         {
           "div": [
             "@key: %index"
-            ".post-front",
+            ".post-front-%class",
             "@events: click-things"
           ]
         }
