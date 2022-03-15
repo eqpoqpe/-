@@ -11,7 +11,7 @@
           "div": [
             "@key: %index"
             ".post-front-%class",
-            "@events: click-things"
+            "@events: %event"
           ]
         }
       ]
