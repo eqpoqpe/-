@@ -2,15 +2,15 @@
 {
   "div": [
     "#card-front",
-    ".card-front front",
+    ".card-front .front",
     "@events:",
     {
       "foreach": [
-        "@data: eqpo/-/display.json::posts",
+        "@data: eqpo/-/display.json",
         {
           "div": [
-            "#key: %index"
-            ".class: post-front",
+            "@key: %index"
+            ".post-front",
             "@events: click-things"
           ]
         }
