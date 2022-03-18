@@ -2,7 +2,15 @@
     "display": {
       "topics": "Project",
       "directory": "/-/diary/project",
-      "items": []
+      "items": [
+        {
+          "title": "Ajak",
+          "creator": "Ryan Martin",
+          "from": "",
+          "type": "origin",
+          "context": ""
+        }
+      ]
     }
   }
   
