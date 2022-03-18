@@ -1,0 +1,53 @@
+{
+  "0": {
+    "div": [
+      "#card-front",
+      ".front",
+      ".card",
+      "@herf:-/display.json",
+      "@events:click-things",
+      {
+        "foreach": [
+          "@data: eqpo/-/display.json",
+          {
+            "div": [
+              "@key: %index",
+              ".post-front-%class",
+              "@events: %event"
+            ]
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "click-things": [
+          "@type: click",
+          "!bubble",
+          "!self",
+          {
+            "recipient": [
+              ".g: post",
+              ".g: light",
+              "#viewpath"
+            ]
+          }
+        ]
+      }
+    ],
+    "recipient": [
+      {
+        ".g: post": [
+          "#key: ",
+          ".post-front"
+        ]
+      },
+      {
+        "light": [
+          "#key: ",
+          ".post-front"
+        ]
+      }
+    ]
+  }
+}
