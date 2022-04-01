@@ -4,6 +4,7 @@
     "directory": "/-",
     "items": [
       {
+        "rid": "0",
         "title": "Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear",
         "creator": "Ryan Martin",
         "from": "",
@@ -13,6 +14,7 @@
         "context": "Do whatever brings you to life, then. Follow your own fascinations, obsessions, and compulsions. Trust them. Create whatever causes a revolution in your heart."
       },
       {
+        "rid": "1",
         "title": "Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear",
         "creator": "Ryan Martin",
         "from": "",
@@ -22,6 +24,7 @@
         "context": "The universe buries strange jewels deep within us all, and then stands back to see if we can find them."
       },
       {
+        "rid": "2",
         "title": "Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear",
         "creator": "Ryan Martin",
         "from": "",
@@ -31,6 +34,7 @@
         "context": "Be the weirdo who dares to enjoy."
       },
       {
+        "rid": "3",
         "title": "Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear",
         "creator": "Ryan Martin",
         "from": "",
