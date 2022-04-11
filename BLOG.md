@@ -1,22 +1,12 @@
-[-1](#-)
-[0](#21y0s)
-[1](#21y1s)
-[2](#21y2s)
-[3](#21y3s)
-[4](#21y4s)
-[5](#21y5s)
-[6](#21y6s)
-[7](#21y7s)
-
 # -
 cd ./-
 
-# 21y0s
+# 0
 just -,
 
 cd ./-
 
-# 21y1s
+# 1
 ```cmd
 /usr/bin/ld: /tmp/cc9iDlzX.o:(.data.rel.ro.local+0x0): multiple definition of `header'; /tmp/cckNaIHX.o:(.data.rel.ro.local+0x0):
 first defined here
@@ -24,7 +14,7 @@ collect2: error: ld returned 1 exit status
 ```
 OH, 'linker ' Noob 'linker'!
 
-# 21y2s
+# 2
 ```
    *****
    []-[]
@@ -35,7 +25,7 @@ OH, 'linker ' Noob 'linker'!
 just a push
 ```
 
-# 21y3s
+# 3
 ```python3
 template = [os.path.isfile(_obj) and \
     file_list.append(_obj) or \
@@ -46,16 +36,16 @@ template = [os.path.isfile(_obj) and \
 
 `and-or`: Wow
 
-# 21y4s
+# 4
 ```c
 #define NUMARGS(...)  (sizeof((int[]){__VA_ARGS__})/sizeof(int))
 ```
 > [C++ preprocessor __VA_ARGS__ number of arguments ...](https://stackoverflow.com/questions/2124339/c-preprocessor-va-args-number-of-arguments/2124433#:~:text=number%20of%20params%3A-,%23define%20NUMARGS(...)%20%20(sizeof((int%5B%5D)%7B__VA_ARGS__%7D)/sizeof(int)),-Full%20example%3A)
 
-# 21y5s
+# 5
 **Freedom**
 
-# 21y6s
+# 6
 ```python3
 class split:
     def __init__(self, string, jump_str=False, cut_index=-1) -> None:
@@ -76,7 +66,7 @@ class split:
 print(split("<class '__main__.plugin'>", cut_index=0).result)
 ```
 
-# 21y7s
+# 7
 ```c
 #define start_server(...) \
     Server.listen((struct ServerSettings){__VA_ARGS__})
@@ -84,12 +74,13 @@ print(split("<class '__main__.plugin'>", cut_index=0).result)
 
 **FROM** [`Server Framework`](https://github.com/ktvexe/server-framework/blob/e73a1319cfbe03d7252bc07df56e558292992cc3/protocol-server.h#L41-L42)
 
-[-1](#-)
-[0](#21y0s)
-[1](#21y1s)
-[2](#21y2s)
-[3](#21y3s)
-[4](#21y4s)
-[5](#21y5s)
-[6](#21y6s)
-[7](#21y7s)
+# 8
+```js
+let visible = true;
+```
+```js
+visible = visible ? false : true;
+```
+```js
+visible = !visible;
+```
